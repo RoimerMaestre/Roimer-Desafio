@@ -21,3 +21,5 @@
 ### una vez en la rama se modifico la imagen y el link para que se dirija respectivamente al github
 
 ### se guardan los cambios con los comandos git add , git commit -m (errores corregidos)para colocarlos al stage area.
+
+### se usa push para subir los cambios...
